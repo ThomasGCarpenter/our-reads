@@ -1,0 +1,13 @@
+#create {
+  text-align: center;
+  border-radius: 2px;
+  border-color: black;
+}
+
+.create-user {
+  margin-top: 10px;
+}
+
+#button-submit {
+  border-color: red;
+}
